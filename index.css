@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(Imagens/Imagens_Julia/Fundo.png);
+  background-image: url(Fundo.png);
 }
 .login-container {
   background: #f69052;
