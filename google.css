@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Afacad", sans-serif;
+}
+.afacad-uniquifier {
+  font-family: "Afacad", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: medium 500;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(Imagens/Imagens_Julia/Fundo.png);
+}
+.login-container {
+  background: #f69052;
+  
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow: 0 0 10px #b2711c;
+  width: 300px;
+  text-align: center;
+  font-size: medium;
+}
+a {
+  text-decoration: none;
+  color: #ffeed4;
+}
+h3 {
+  color: #572201;
+  margin-bottom: 2px;
+  font-size: medium;
+}
+.adam {
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  border: 2px solid #a84f23;
+  border-radius: 10px;
+  background-color: #faca95;
+  margin-bottom: 12px;
+}
+.outra {
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: #f28846;
+  margin-bottom: 12px;
+  gap: 15px;
+}
+.outra > img{
+  width: 36px;
+  height: 36px;
+}
+.google {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+  background-color: #d4620b;
+  justify-content: center;
+  height: 30px;
+  border-radius: 6px;
+}
+.imagem{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+p {
+  color: #572201;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+h5 {
+  color: #432903;
+  margin-bottom: 10px;
+font-size: medium;
+}
+h2 {
+  color: #432903;
+}
+p{
+  margin: 10px;
+  align-items: center;
+}
+h4{
+  color: #fffbf5;
+  font-size: larger;
+}
+button {
+  background-color: #c95c19;
+  border-radius: 6px;
+  width: 90px;
+  font-size: larger;
+  border: #733a17;
+}
+button > a {
+  color: rgb(251, 235, 235);
+}
+button:hover{
+ background-color: #b0550f;
+}
+hr{
+  border: 1px solid #da6811f2;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: "Afacad", sans-serif;
+  background-color: rgb(250, 242, 232);
+}
+.afacad-uniquifier {
+  font-family: "Afacad", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: medium 500;
+}
+
+header {
+  background-color: #eb742a;
+  height: 60px;
+}
+.logo {
+  width: 95px;
+  padding: 5px;
+  margin-left: 10px;
+}
+nav > a {
+  text-decoration: none;
+  color: #f4711f;
+  margin-right: 85px;
+  margin-left: 85px;
+  font-weight: 600;
+  font-size: 18px;
+}
+nav > a:hover {
+  background-color: #fffdfc;
+  padding: 1px;
+  transition: 0.4s;
+}
+nav {
+  background-color: #ffc29c;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+h5{
+  font-size: 60px;
+}
+section{
+  text-align: center;
+}
+.sobre{
+  background-color: #ffc29c;
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow: 0 0 10px #b2711c;
+  width: 300px;
+ margin: auto;
+margin-top: 50px;
+}
+ul{
+  padding: 5px;
+  list-style: none;
+  background-color: bisque;
+  color: #f4711f;
+  text-align: center;
+ margin-top: 100px;
+}
+li{
+  margin: 20px;
+  text-decoration: none;
+}
